@@ -1,6 +1,6 @@
 {
     "identityPoolName": "helpinghand52cd839c_identitypool_52cd839c",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "helpin52cd839c",
     "userPoolName": "helpinghand52cd839c_userpool_52cd839c",
     "autoVerifiedAttributes": [
